@@ -1,6 +1,3 @@
-# Front End Resources
-#frontend #resources
-
 #  Front Resources
 [FreeFrontEnd](https://freefrontend.com/) : Pour copier des card et button sans gène 
 
