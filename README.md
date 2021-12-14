@@ -27,7 +27,7 @@
 
 ### Humour, hein, oh!
 
-[Ben Awad](https://www.youtube.com/c/BenAwad97) : Son projets de Tinder pour dev est tellement excellente et saugrenu
+[Ben Awad](https://www.youtube.com/c/BenAwad97) : Son projet de Tinder pour dev est tellement excellente et saugrenu
 
 [Joma Tech](https://www.youtube.com/c/JomaOppa) : Très sarcastique mais allez voir sa vidéo sur l'origine de la data science.Ou sa vidéo de code sur word.
 
