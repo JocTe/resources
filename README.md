@@ -7,7 +7,7 @@
 
 [Shape Divider App](https://www.shapedivider.app/) : Diviser votre page avec des SVG
 
-[Front-End Resources - DEV Community](https://dev.to/aycanogut/front-end-resources-1jk2) : Un gros lien avec plein de resource 
+[Front-End Resources - DEV Community](https://dev.to/aycanogut/front-end-resources-1jk2) : Un gros lien avec plein de ressources 
 
 ## Youtube Recomandation
 
