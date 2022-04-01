@@ -9,6 +9,10 @@
 
 [Front-End Resources - DEV Community](https://dev.to/aycanogut/front-end-resources-1jk2) : Un gros lien avec plein de ressources 
 
+## GIT
+
+[Oh SHIT GIT!!](https://ohshitgit.com/) : Super cheatsheet pour vous sortir des situations hazardeuse.
+
 ## Youtube Recomandation
 
 ### News
