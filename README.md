@@ -1,13 +1,25 @@
 #  Front Resources
-[FreeFrontEnd](https://freefrontend.com/) : Pour copier des card et button sans gène 
-
-[Animista - CSS Animations on Demand](https://animista.net/) : Pour des animations CSS sans prise de tête
+[FreeFrontEnd](https://freefrontend.com/) : Pour copier des card et button sans gène
 
 [Haikei](https://haikei.app/) : Pour faire des super SVG
 
 [Shape Divider App](https://www.shapedivider.app/) : Diviser votre page avec des SVG
 
-[Front-End Resources - DEV Community](https://dev.to/aycanogut/front-end-resources-1jk2) : Un gros lien avec plein de ressources 
+[Front-End Resources - DEV Community](https://dev.to/aycanogut/front-end-resources-1jk2) : Un gros lien avec plein de ressources
+
+## Animation
+
+[GSAP](https://greensock.com/gsap/) : Librairie d'animation, tous ce qu'il vous faut pous dynamiser vos pages web en javascript
+
+[Motion](https://motion.dev/) Alternative à GSAP.
+
+[Animista - CSS Animations on Demand](https://animista.net/) : Pour des animations CSS sans prise de tête
+
+### Renderer
+
+[Pixijs](https://pixijs.com/) Render des éléments 2D
+
+[Threejs](https://threejs.org/) Render 3D.
 
 ## GIT
 
